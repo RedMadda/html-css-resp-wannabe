@@ -1,0 +1,124 @@
+ .h-300{
+   height:300px;
+ }
+
+ .h-200{
+   height:200px;
+ }
+
+ .bcc-y{
+   background-color: yellow;
+ }
+
+ .bcc-p{
+   background-color: pink;
+ }
+
+ .bcc-v{
+   background-color: violet
+ }
+
+ .bcc-g{
+   background-color: lightgreen;
+ }
+
+.container {
+  width:80%;
+  max-width:1200px;
+  margin:auto;
+  text-align: center;
+}
+
+.row-title{
+  width:100%;
+}
+
+h1, h2, h3{
+  width:98%;
+  font-size: 30px;
+  margin:0 auto;
+}
+
+.row{
+  margin-bottom:3vh;
+  width:100%;
+}
+
+#come, #perche{
+  background-color: lightgrey;
+}
+#lezioni * div, #come * div, #perche * div{
+  padding:1vh;
+}
+
+#lezioni img, #come img, #perche img{
+  height:200px;
+}
+
+hr{
+  margin-top:20px;
+}
+
+#perche img{
+  background-color: lightblue;
+  border-radius: 100px;
+}
+
+/* media query */
+
+
+
+/* xs */
+@media screen and (max-width:678px){
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* c */
