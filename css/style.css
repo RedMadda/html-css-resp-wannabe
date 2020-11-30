@@ -1,0 +1,182 @@
+/* debuggs  */
+
+.h-200{
+  height:200px;
+}
+
+.h-400{
+  height:400px;
+}
+
+.bcc-y{
+  background-color:yellow;
+}
+
+.bcc-pink{
+  background-color: pink;
+}
+
+.bcc-lb{
+  background-color: lightblue;
+}
+
+.bcc-lg{
+  background-color: lightgreen;
+}
+
+.bcc-o{
+  background-color: orange;
+}
+
+.bcc-v{
+  background-color: violet;
+}
+
+.bcc-sb{
+  background-color: slateblue;
+}
+
+/* general */
+
+.container{
+  width:80%;
+  margin:0 auto;
+  text-align: center;
+}
+/* commons */
+.row{
+  margin-bottom:30px;
+}
+
+h1, h2{
+  font-size: 30px;
+}
+
+h3{
+  font-size:20px;
+}
+.steps, .why{
+  background-color: lightgrey;
+}
+.steps h2, .why h2{
+  margin-top:80px;
+}
+/* lezioni */
+
+.lezioni img{
+  height:200px;
+  margin:20px auto;
+}
+
+/* steps */
+.steps .row img{
+  height:150px;
+  margin:20px auto;
+}
+
+.steps p{
+  padding-bottom: 10px;
+}
+
+/* perche */
+
+.why img{
+  height:250px;
+  background-color: powderblue;
+  border-radius: 50%;
+  margin: 20px auto;
+  padding:10px;
+}
+
+.why p{
+  margin-bottom:20px;
+}
+
+/* media query */
+@media screen and (min-width:768px) and (max-width:992px) {
+  .lezioni img{
+    height:150px;
+  }
+
+  .why .row img{
+    height:150px;
+  }
+}
+
+@media screen and (max-width:768px){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* c */
